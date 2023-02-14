@@ -1,0 +1,18 @@
+body {
+	padding: 20px;
+}
+
+/* форма регистрации */
+.form__errors,
+.form__success {
+	display: none;
+}
+
+.password__show--active:after {
+    display: block;
+    content: '';
+    border-left: 1px solid grey;
+    height: 30px;
+    transform: rotate(-45deg) translate(5px,5px);
+    position: absolute;
+}
