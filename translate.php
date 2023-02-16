@@ -1,4 +1,5 @@
 <?php
+/* test */
 $translate = array(
 	'lastNameEmpty' => 'Ви не вказали своє прізвище',
 	'firstNameEmpty' => 'Ви не вказали своє ім\'я',
